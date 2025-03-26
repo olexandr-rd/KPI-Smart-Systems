@@ -57,7 +57,6 @@
       let response = await fetch("/data");
       if (response.ok) {
         let data = await response.json();
-        // Показуємо нові дані зверху
         data = data.reverse();
         let tbody = document.getElementById("dataTable");
         tbody.innerHTML = "";
@@ -91,7 +90,7 @@
         alert("Помилка під час прогнозування");
       }
     });
-
+    setInterval(updateTable, 5000);
     updateTable();
   </script>
 </body>
