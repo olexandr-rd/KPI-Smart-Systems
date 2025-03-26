@@ -1,0 +1,602 @@
+[
+  {
+    "temp": 22.49,
+    "humidity": 31.57,
+    "soil": 621.02,
+    "yield": 5.05
+  },
+  {
+    "temp": 34.01,
+    "humidity": 61.82,
+    "soil": 342.07,
+    "yield": 4.91
+  },
+  {
+    "temp": 29.64,
+    "humidity": 45.72,
+    "soil": 380.81,
+    "yield": 5.36
+  },
+  {
+    "temp": 26.97,
+    "humidity": 55.43,
+    "soil": 749.28,
+    "yield": 6.44
+  },
+  {
+    "temp": 18.12,
+    "humidity": 75.38,
+    "soil": 603.21,
+    "yield": 5.02
+  },
+  {
+    "temp": 18.12,
+    "humidity": 42.46,
+    "soil": 304.6,
+    "yield": 3.83
+  },
+  {
+    "temp": 16.16,
+    "humidity": 50.52,
+    "soil": 350.74,
+    "yield": 3.82
+  },
+  {
+    "temp": 32.32,
+    "humidity": 67.78,
+    "soil": 631.75,
+    "yield": 6.55
+  },
+  {
+    "temp": 27.02,
+    "humidity": 41.44,
+    "soil": 302.53,
+    "yield": 3.95
+  },
+  {
+    "temp": 29.16,
+    "humidity": 33.85,
+    "soil": 380.4,
+    "yield": 4.42
+  },
+  {
+    "temp": 15.41,
+    "humidity": 44.49,
+    "soil": 574.37,
+    "yield": 4.91
+  },
+  {
+    "temp": 34.4,
+    "humidity": 38.06,
+    "soil": 645.95,
+    "yield": 6.12
+  },
+  {
+    "temp": 31.65,
+    "humidity": 76.48,
+    "soil": 625.98,
+    "yield": 6.06
+  },
+  {
+    "temp": 19.25,
+    "humidity": 70.41,
+    "soil": 412.13,
+    "yield": 4.72
+  },
+  {
+    "temp": 18.64,
+    "humidity": 61.67,
+    "soil": 656.09,
+    "yield": 5.45
+  },
+  {
+    "temp": 18.67,
+    "humidity": 73.57,
+    "soil": 418.62,
+    "yield": 4.68
+  },
+  {
+    "temp": 21.08,
+    "humidity": 70.18,
+    "soil": 462.7,
+    "yield": 5.64
+  },
+  {
+    "temp": 25.5,
+    "humidity": 39.33,
+    "soil": 673.25,
+    "yield": 5.68
+  },
+  {
+    "temp": 23.64,
+    "humidity": 74.63,
+    "soil": 624.82,
+    "yield": 5.6
+  },
+  {
+    "temp": 20.82,
+    "humidity": 56.97,
+    "soil": 724.61,
+    "yield": 6.15
+  },
+  {
+    "temp": 27.24,
+    "humidity": 70.37,
+    "soil": 628.81,
+    "yield": 6.72
+  },
+  {
+    "temp": 17.79,
+    "humidity": 74.8,
+    "soil": 584.15,
+    "yield": 5.83
+  },
+  {
+    "temp": 20.84,
+    "humidity": 45.9,
+    "soil": 346.84,
+    "yield": 3.69
+  },
+  {
+    "temp": 22.33,
+    "humidity": 35.5,
+    "soil": 483.86,
+    "yield": 4.42
+  },
+  {
+    "temp": 24.12,
+    "humidity": 41.4,
+    "soil": 432.6,
+    "yield": 4.94
+  },
+  {
+    "temp": 30.7,
+    "humidity": 51.36,
+    "soil": 421.99,
+    "yield": 4.84
+  },
+  {
+    "temp": 18.99,
+    "humidity": 70.9,
+    "soil": 786.51,
+    "yield": 6.45
+  },
+  {
+    "temp": 25.28,
+    "humidity": 73.04,
+    "soil": 496.55,
+    "yield": 5.74
+  },
+  {
+    "temp": 26.85,
+    "humidity": 30.35,
+    "soil": 746.02,
+    "yield": 5.46
+  },
+  {
+    "temp": 15.93,
+    "humidity": 55.54,
+    "soil": 615.57,
+    "yield": 5.15
+  },
+  {
+    "temp": 27.15,
+    "humidity": 50.87,
+    "soil": 697.41,
+    "yield": 4.99
+  },
+  {
+    "temp": 18.41,
+    "humidity": 41.11,
+    "soil": 551.32,
+    "yield": 4.44
+  },
+  {
+    "temp": 16.3,
+    "humidity": 35.99,
+    "soil": 588.45,
+    "yield": 4.61
+  },
+  {
+    "temp": 33.98,
+    "humidity": 46.88,
+    "soil": 546.26,
+    "yield": 5.25
+  },
+  {
+    "temp": 34.31,
+    "humidity": 77.15,
+    "soil": 397.62,
+    "yield": 6.14
+  },
+  {
+    "temp": 31.17,
+    "humidity": 46.16,
+    "soil": 661.23,
+    "yield": 5.5
+  },
+  {
+    "temp": 21.09,
+    "humidity": 55.94,
+    "soil": 440.39,
+    "yield": 4.6
+  },
+  {
+    "temp": 16.95,
+    "humidity": 65.15,
+    "soil": 312.16,
+    "yield": 4.24
+  },
+  {
+    "temp": 28.68,
+    "humidity": 48.18,
+    "soil": 622.74,
+    "yield": 6.12
+  },
+  {
+    "temp": 23.8,
+    "humidity": 78.59,
+    "soil": 388.56,
+    "yield": 4.69
+  },
+  {
+    "temp": 17.44,
+    "humidity": 78.12,
+    "soil": 770.23,
+    "yield": 6.66
+  },
+  {
+    "temp": 24.9,
+    "humidity": 42.59,
+    "soil": 776.96,
+    "yield": 6.01
+  },
+  {
+    "temp": 15.69,
+    "humidity": 54.86,
+    "soil": 757.43,
+    "yield": 5.42
+  },
+  {
+    "temp": 33.19,
+    "humidity": 45.04,
+    "soil": 485.08,
+    "yield": 5.44
+  },
+  {
+    "temp": 20.18,
+    "humidity": 44.24,
+    "soil": 307.73,
+    "yield": 3.98
+  },
+  {
+    "temp": 28.25,
+    "humidity": 31.84,
+    "soil": 764.16,
+    "yield": 5.73
+  },
+  {
+    "temp": 21.23,
+    "humidity": 60.48,
+    "soil": 514.09,
+    "yield": 5.15
+  },
+  {
+    "temp": 25.4,
+    "humidity": 55.13,
+    "soil": 783.33,
+    "yield": 6.19
+  },
+  {
+    "temp": 25.93,
+    "humidity": 32.57,
+    "soil": 781.81,
+    "yield": 5.91
+  },
+  {
+    "temp": 18.7,
+    "humidity": 43.93,
+    "soil": 726.5,
+    "yield": 5.72
+  },
+  {
+    "temp": 34.39,
+    "humidity": 75.41,
+    "soil": 447.22,
+    "yield": 6.29
+  },
+  {
+    "temp": 30.5,
+    "humidity": 41.98,
+    "soil": 492.55,
+    "yield": 4.76
+  },
+  {
+    "temp": 33.79,
+    "humidity": 37.24,
+    "soil": 725.57,
+    "yield": 6.78
+  },
+  {
+    "temp": 32.9,
+    "humidity": 54.47,
+    "soil": 458.46,
+    "yield": 4.78
+  },
+  {
+    "temp": 26.96,
+    "humidity": 79.28,
+    "soil": 384.75,
+    "yield": 5.23
+  },
+  {
+    "temp": 33.44,
+    "humidity": 42.1,
+    "soil": 578.4,
+    "yield": 5.8
+  },
+  {
+    "temp": 16.77,
+    "humidity": 63.61,
+    "soil": 768.08,
+    "yield": 6.07
+  },
+  {
+    "temp": 18.92,
+    "humidity": 68.08,
+    "soil": 648.01,
+    "yield": 5.51
+  },
+  {
+    "temp": 15.9,
+    "humidity": 41.88,
+    "soil": 585.03,
+    "yield": 4.71
+  },
+  {
+    "temp": 21.51,
+    "humidity": 66.41,
+    "soil": 348.59,
+    "yield": 4.45
+  },
+  {
+    "temp": 22.77,
+    "humidity": 48.39,
+    "soil": 607.5,
+    "yield": 5.16
+  },
+  {
+    "temp": 20.43,
+    "humidity": 61.62,
+    "soil": 795.03,
+    "yield": 6.49
+  },
+  {
+    "temp": 31.57,
+    "humidity": 61.68,
+    "soil": 370.04,
+    "yield": 5.2
+  },
+  {
+    "temp": 22.14,
+    "humidity": 56.79,
+    "soil": 559.16,
+    "yield": 5.07
+  },
+  {
+    "temp": 20.62,
+    "humidity": 34.51,
+    "soil": 738.69,
+    "yield": 5.75
+  },
+  {
+    "temp": 25.85,
+    "humidity": 71.77,
+    "soil": 670.38,
+    "yield": 6.3
+  },
+  {
+    "temp": 17.82,
+    "humidity": 46.04,
+    "soil": 648.51,
+    "yield": 5.45
+  },
+  {
+    "temp": 31.04,
+    "humidity": 39.33,
+    "soil": 651.24,
+    "yield": 5.93
+  },
+  {
+    "temp": 16.49,
+    "humidity": 32.04,
+    "soil": 479.75,
+    "yield": 3.94
+  },
+  {
+    "temp": 34.74,
+    "humidity": 59.54,
+    "soil": 446.8,
+    "yield": 5.35
+  },
+  {
+    "temp": 30.44,
+    "humidity": 63.88,
+    "soil": 704.68,
+    "yield": 6.64
+  },
+  {
+    "temp": 18.97,
+    "humidity": 30.83,
+    "soil": 705.06,
+    "yield": 5.37
+  },
+  {
+    "temp": 15.11,
+    "humidity": 55.6,
+    "soil": 733.54,
+    "yield": 5.6
+  },
+  {
+    "temp": 31.31,
+    "humidity": 41.32,
+    "soil": 756.62,
+    "yield": 6.25
+  },
+  {
+    "temp": 29.14,
+    "humidity": 62.26,
+    "soil": 555.67,
+    "yield": 6.11
+  },
+  {
+    "temp": 29.58,
+    "humidity": 38.72,
+    "soil": 550.76,
+    "yield": 5.08
+  },
+  {
+    "temp": 30.43,
+    "humidity": 64.55,
+    "soil": 699.15,
+    "yield": 6.57
+  },
+  {
+    "temp": 16.48,
+    "humidity": 49.34,
+    "soil": 624.98,
+    "yield": 5.05
+  },
+  {
+    "temp": 22.17,
+    "humidity": 76.84,
+    "soil": 650.98,
+    "yield": 5.98
+  },
+  {
+    "temp": 17.32,
+    "humidity": 36.88,
+    "soil": 697.9,
+    "yield": 5.52
+  },
+  {
+    "temp": 32.26,
+    "humidity": 47.05,
+    "soil": 745.0,
+    "yield": 6.58
+  },
+  {
+    "temp": 27.47,
+    "humidity": 35.67,
+    "soil": 469.0,
+    "yield": 5.01
+  },
+  {
+    "temp": 21.62,
+    "humidity": 76.23,
+    "soil": 487.79,
+    "yield": 5.75
+  },
+  {
+    "temp": 16.27,
+    "humidity": 73.87,
+    "soil": 346.99,
+    "yield": 4.49
+  },
+  {
+    "temp": 21.22,
+    "humidity": 42.9,
+    "soil": 589.14,
+    "yield": 5.28
+  },
+  {
+    "temp": 21.5,
+    "humidity": 63.0,
+    "soil": 317.97,
+    "yield": 4.31
+  },
+  {
+    "temp": 29.59,
+    "humidity": 70.86,
+    "soil": 532.8,
+    "yield": 5.93
+  },
+  {
+    "temp": 27.75,
+    "humidity": 57.76,
+    "soil": 571.32,
+    "yield": 5.59
+  },
+  {
+    "temp": 32.74,
+    "humidity": 56.48,
+    "soil": 443.27,
+    "yield": 5.37
+  },
+  {
+    "temp": 24.44,
+    "humidity": 42.09,
+    "soil": 595.42,
+    "yield": 5.42
+  },
+  {
+    "temp": 17.39,
+    "humidity": 34.66,
+    "soil": 315.25,
+    "yield": 3.38
+  },
+  {
+    "temp": 29.26,
+    "humidity": 74.86,
+    "soil": 318.67,
+    "yield": 5.66
+  },
+  {
+    "temp": 30.22,
+    "humidity": 75.02,
+    "soil": 711.3,
+    "yield": 6.35
+  },
+  {
+    "temp": 26.23,
+    "humidity": 61.66,
+    "soil": 480.1,
+    "yield": 4.9
+  },
+  {
+    "temp": 30.42,
+    "humidity": 46.95,
+    "soil": 363.53,
+    "yield": 5.06
+  },
+  {
+    "temp": 24.88,
+    "humidity": 47.46,
+    "soil": 561.12,
+    "yield": 5.47
+  },
+  {
+    "temp": 25.45,
+    "humidity": 66.3,
+    "soil": 685.0,
+    "yield": 6.33
+  },
+  {
+    "temp": 23.55,
+    "humidity": 74.86,
+    "soil": 407.91,
+    "yield": 5.29
+  },
+  {
+    "temp": 15.51,
+    "humidity": 74.35,
+    "soil": 611.45,
+    "yield": 5.5
+  },
+  {
+    "temp": 17.16,
+    "humidity": 68.99,
+    "soil": 342.67,
+    "yield": 4.14
+  }
+]
